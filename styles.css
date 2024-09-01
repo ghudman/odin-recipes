@@ -1,0 +1,14 @@
+* {
+    background-color: mintcream;
+}
+
+.title, h3, h2, h1 {
+    background-color: black;
+    color: mintcream;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul, li, ol {
+    background-color: bisque;
+}
